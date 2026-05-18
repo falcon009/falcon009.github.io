@@ -247,6 +247,11 @@ function createTrackListItem(track) {
     item.appendChild(hoverInfo);
 
     item.onclick = () => {
+        const isExpanded = item.classList.contains('expanded');
+        document.querySelectorAll('.track-item.expanded').forEach(el => el.classList.remove('expanded'));
+        if (!isExpanded) {
+            item.classList.add('expanded');
+        }
         if (track.layer) {
             const bounds = track.layer.getBounds && track.layer.getBounds();
             if (bounds && bounds.isValid()) {

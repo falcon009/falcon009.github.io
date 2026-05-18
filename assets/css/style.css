@@ -166,7 +166,7 @@ body, html {
     margin-top: 8px;
 }
 
-.track-item:hover .track-hover-info {
+.track-item.expanded .track-hover-info {
     display: block;
 }
 
