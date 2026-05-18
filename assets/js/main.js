@@ -176,6 +176,9 @@ function setActiveTrack(path) {
             weight: isActive ? 7 : 4,
             opacity: isActive ? 1 : 0.65
         });
+        if (isActive) {
+            track.layer.bringToFront();
+        }
     });
 }
 
