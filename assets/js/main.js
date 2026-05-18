@@ -115,7 +115,7 @@ function addDecoyRoutes(config) {
     layerGroup.addTo(map);
 }
 
-addDecoyRoutes(HOME_OBFUSCATION);
+// addDecoyRoutes(HOME_OBFUSCATION);
 // ---------------------------------------------------------------------------
 
 function buildRawFileUrl(path) {
