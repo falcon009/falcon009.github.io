@@ -382,4 +382,11 @@ async function init() {
 
 searchInput.addEventListener('input', renderTrackList);
 
+document.getElementById('panel-toggle').addEventListener('click', function() {
+    const panel = document.querySelector('.ui-panel');
+    const minimized = panel.classList.toggle('minimized');
+    this.textContent = minimized ? '+' : '−';
+    this.title = minimized ? '패널 펼치기' : '패널 접기';
+});
+
 init();

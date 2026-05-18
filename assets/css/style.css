@@ -26,10 +26,56 @@ body, html {
     backdrop-filter: blur(10px);
 }
 
-h2 {
-    margin: 0 0 8px 0;
+.panel-header {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-bottom: 8px;
+}
+
+.panel-header h2 {
+    margin: 0;
     font-size: 1.25rem;
     color: #222;
+}
+
+.panel-toggle {
+    flex-shrink: 0;
+    width: 26px;
+    height: 26px;
+    border: 1px solid #d1d5db;
+    border-radius: 8px;
+    background: #f9fafb;
+    color: #6b7280;
+    font-size: 1rem;
+    line-height: 1;
+    cursor: pointer;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    transition: background 0.15s, border-color 0.15s;
+}
+
+.panel-toggle:hover {
+    background: #f3f4f6;
+    border-color: #9ca3af;
+    color: #374151;
+}
+
+.panel-body {
+    overflow: hidden;
+    max-height: 80vh;
+    opacity: 1;
+    transition: max-height 0.28s ease, opacity 0.22s ease;
+}
+
+.ui-panel.minimized .panel-body {
+    max-height: 0;
+    opacity: 0;
+}
+
+.ui-panel.minimized .panel-header {
+    margin-bottom: 0;
 }
 
 #status {
