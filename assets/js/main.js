@@ -126,11 +126,9 @@ function getDisplayTitle(track) {
     return track.title || track.path.split('/').pop();
 }
 
-function getMetaText(track) {
-    const meta = [];
-    if (track.date) meta.push(track.date);
-    if (track.region) meta.push(track.region);
-    return meta.join(' · ');
+function formatShortDate(date) {
+    if (!date) return '';
+    return date.length >= 8 ? date.slice(2) : date;
 }
 
 function getTooltipText(track) {
@@ -220,27 +218,37 @@ function createTrackListItem(track) {
     const item = document.createElement('div');
     item.className = 'track-item';
 
+    const mainRow = document.createElement('div');
+    mainRow.className = 'track-main-row';
+
     const titleEl = document.createElement('div');
     titleEl.className = 'track-title';
     titleEl.innerText = getDisplayTitle(track);
 
-    const metaEl = document.createElement('div');
-    metaEl.className = 'track-meta';
-    metaEl.innerText = getMetaText(track) || track.path.replace('tracks/', '');
+    const dateEl = document.createElement('div');
+    dateEl.className = 'track-date';
+    dateEl.innerText = formatShortDate(track.date);
 
-    const descEl = document.createElement('div');
-    descEl.className = 'track-description';
-    descEl.innerText = track.description || '설명이 없습니다.';
+    mainRow.appendChild(titleEl);
+    mainRow.appendChild(dateEl);
 
-    item.appendChild(titleEl);
-    item.appendChild(metaEl);
+    const hoverInfo = document.createElement('div');
+    hoverInfo.className = 'track-hover-info';
+
     if (track.bike) {
         const bikeEl = document.createElement('div');
         bikeEl.className = 'track-bike';
         bikeEl.innerText = `🏍️ ${track.bike}`;
-        item.appendChild(bikeEl);
+        hoverInfo.appendChild(bikeEl);
     }
-    item.appendChild(descEl);
+
+    const descEl = document.createElement('div');
+    descEl.className = 'track-description';
+    descEl.innerText = track.description || '설명이 없습니다.';
+    hoverInfo.appendChild(descEl);
+
+    item.appendChild(mainRow);
+    item.appendChild(hoverInfo);
 
     item.onclick = () => {
         if (track.layer) {

@@ -146,17 +146,36 @@ body, html {
     background: #f8fbff;
 }
 
-.track-title {
-    font-size: 0.95rem;
-    font-weight: 700;
-    color: #222;
-    margin-bottom: 6px;
+.track-main-row {
+    display: flex;
+    align-items: baseline;
+    justify-content: space-between;
+    gap: 6px;
 }
 
-.track-meta {
-    font-size: 0.72rem;
-    color: #4b5563;
-    margin-bottom: 6px;
+.track-title {
+    font-size: 0.88rem;
+    font-weight: 700;
+    color: #222;
+    flex: 1;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+}
+
+.track-date {
+    flex-shrink: 0;
+    font-size: 0.68rem;
+    color: #9ca3af;
+}
+
+.track-hover-info {
+    display: none;
+    margin-top: 8px;
+}
+
+.track-item:hover .track-hover-info {
+    display: block;
 }
 
 .track-bike {
