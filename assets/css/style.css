@@ -17,7 +17,7 @@ body, html {
     top: 20px;
     right: 20px;
     z-index: 1000;
-    width: 170px;
+    width: 220px;
     max-width: calc(100vw - 40px);
     background: rgba(255, 255, 255, 0.92);
     padding: 20px;
