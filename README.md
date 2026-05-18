@@ -1,10 +1,10 @@
-# jhkim0712.github.io
+# falcon009.github.io
 
 개인 GitHub Pages 웹사이트입니다.
 
 ## 🌐 사이트 바로가기
 
-👉 [https://jhkim0712.github.io](https://jhkim0712.github.io)
+👉 [https://falcon009.github.io](https://falcon009.github.io)
 
 ## 🛠️ 기술 스택
 
@@ -15,7 +15,7 @@
 ## 📁 프로젝트 구조
 
 ```
-jhkim0712.github.io/
+falcon009.github.io/
 ├── index.html       # 메인 페이지
 ├── style.css        # 스타일시트
 └── README.md        # 프로젝트 소개

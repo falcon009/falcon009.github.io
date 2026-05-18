@@ -8,15 +8,22 @@ function _ds(s, k) {
     return out;
 }
 
-const CONFIG = (function() {
-    const K = 0x5C;
-    return {
-        owner: _ds('NjQ3NTFsa21u', K),
-        repo: _ds('NjQ3NTFsa21ucjs1KDQpPnI1Mw==', K),
-        branch: _ds('MT01Mg==', K),
-        manifestPath: _ds('KC49PzcvcjYvMzI=', K)
-    };
-})();
+// const CONFIG = (function() {
+//     const K = 0x5C;
+//     return {
+//         owner: _ds('NjQ3NTFsa21u', K),
+//         repo: _ds('NjQ3NTFsa21ucjs1KDQpPnI1Mw==', K),
+//         branch: _ds('MT01Mg==', K),
+//         manifestPath: _ds('KC49PzcvcjYvMzI=', K)
+//     };
+// })();
+
+const CONFIG = {
+    owner: 'falcon009',
+    repo: 'falcon009.github.io',
+    branch: 'main',
+    manifestPath: 'tracks.json'
+}
 
 // 홈 위치 보호용 디코이(가짜) 경로 설정
 // - center: 가리고 싶은 실제 좌표 부근(약간 어긋난 중심점을 사용)
