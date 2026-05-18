@@ -1,6 +1,6 @@
 [
   {
-    "path": "220716_운악산일주.gpx",
+    "path": "tracks/220716_운악산일주.gpx",
     "title": "운악산일주",
     "description": "운악산 주변 라이딩",
     "date": "2022-07-16",
@@ -8,7 +8,7 @@
     "bike": "Suzuki GSX-S125"
   },
   {
-    "path": "220717_시흥복귀.gpx",
+    "path": "tracks/220717_시흥복귀.gpx",
     "title": "시흥복귀",
     "description": "시흥 돌아가는 길",
     "date": "2022-07-17",
