@@ -991,20 +991,4 @@
     "region": "",
     "bike": "Suzuki Vstrom-250"
   },
-  {
-    "path": "tracks/test.gpx",
-    "title": "test",
-    "description": "",
-    "date": "",
-    "region": "",
-    "bike": "Suzuki Vstrom-250"
-  },
-  {
-    "path": "tracks/test1.gpx",
-    "title": "test1",
-    "description": "",
-    "date": "",
-    "region": "",
-    "bike": "Suzuki Vstrom-250"
-  }
 ]
