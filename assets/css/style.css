@@ -146,27 +146,19 @@ body, html {
     background: #f8fbff;
 }
 
-.track-main-row {
-    display: flex;
-    align-items: baseline;
-    justify-content: space-between;
-    gap: 6px;
-}
-
 .track-title {
     font-size: 0.88rem;
     font-weight: 700;
     color: #222;
-    flex: 1;
     white-space: nowrap;
     overflow: hidden;
     text-overflow: ellipsis;
 }
 
 .track-date {
-    flex-shrink: 0;
     font-size: 0.68rem;
     color: #9ca3af;
+    margin-bottom: 4px;
 }
 
 .track-hover-info {

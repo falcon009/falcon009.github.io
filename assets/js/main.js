@@ -218,22 +218,18 @@ function createTrackListItem(track) {
     const item = document.createElement('div');
     item.className = 'track-item';
 
-    const mainRow = document.createElement('div');
-    mainRow.className = 'track-main-row';
-
     const titleEl = document.createElement('div');
     titleEl.className = 'track-title';
     titleEl.innerText = getDisplayTitle(track);
 
-    const dateEl = document.createElement('div');
-    dateEl.className = 'track-date';
-    dateEl.innerText = formatShortDate(track.date);
-
-    mainRow.appendChild(titleEl);
-    mainRow.appendChild(dateEl);
-
     const hoverInfo = document.createElement('div');
     hoverInfo.className = 'track-hover-info';
+
+    const dateEl = document.createElement('div');
+    dateEl.className = 'track-date';
+    const metaParts = [formatShortDate(track.date), track.region].filter(Boolean);
+    dateEl.innerText = metaParts.join(' · ');
+    hoverInfo.appendChild(dateEl);
 
     if (track.bike) {
         const bikeEl = document.createElement('div');
@@ -247,7 +243,7 @@ function createTrackListItem(track) {
     descEl.innerText = track.description || '설명이 없습니다.';
     hoverInfo.appendChild(descEl);
 
-    item.appendChild(mainRow);
+    item.appendChild(titleEl);
     item.appendChild(hoverInfo);
 
     item.onclick = () => {

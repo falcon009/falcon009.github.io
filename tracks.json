@@ -861,7 +861,7 @@
     "description": "",
     "date": "2026-02-14",
     "region": "",
-    "bike": "Suzuki Vstrom-250"
+    "bike": "Honda CB500X"
   },
   {
     "path": "tracks/260216_주문진복귀.gpx",
@@ -869,7 +869,7 @@
     "description": "",
     "date": "2026-02-16",
     "region": "",
-    "bike": "Suzuki Vstrom-250"
+    "bike": "Honda CB500X"
   },
   {
     "path": "tracks/260314_소무의도.gpx",
@@ -877,7 +877,7 @@
     "description": "",
     "date": "2026-03-14",
     "region": "",
-    "bike": "Suzuki Vstrom-250"
+    "bike": "Honda CBR500R"
   },
   {
     "path": "tracks/260321_몽산포항.gpx",
@@ -885,7 +885,7 @@
     "description": "",
     "date": "2026-03-21",
     "region": "",
-    "bike": "Suzuki Vstrom-250"
+    "bike": "Honda CB500X"
   },
   {
     "path": "tracks/260322_가로림만.gpx",
@@ -893,102 +893,102 @@
     "description": "",
     "date": "2026-03-22",
     "region": "",
-    "bike": "Suzuki Vstrom-250"
+    "bike": "Honda CB500X"
   },
   {
     "path": "tracks/260404_경북풍기.gpx",
     "title": "경북풍기",
     "description": "",
     "date": "2026-04-04",
-    "region": "",
-    "bike": "Suzuki Vstrom-250"
+    "region": "충주살미/한수/수산면/풍기읍",
+    "bike": "Honda CB500X"
   },
   {
     "path": "tracks/260405_영주_봉화_울진.gpx",
     "title": "영주_봉화_울진",
-    "description": "",
+    "description": "영주시 봉화군 울진군 투어",
     "date": "2026-04-05",
-    "region": "",
-    "bike": "Suzuki Vstrom-250"
+    "region": "영주/봉화/국립백두대간수목원/청량산/영양/금강송면/불영계곡/울진/죽변항",
+    "bike": "Honda CB500X"
   },
   {
     "path": "tracks/260406_단양.gpx",
-    "title": "단양",
-    "description": "",
+    "title": "단양 충주호 북측",
+    "description": "단양 출발 우중 충주호 북측 비포장로 Off-road 투어",
     "date": "2026-04-06",
-    "region": "",
-    "bike": "Suzuki Vstrom-250"
+    "region": "단양/북충주호",
+    "bike": "Honda CB500X"
   },
   {
     "path": "tracks/260411_지리산_정령치_성삼재.gpx",
     "title": "지리산_정령치_성삼재",
     "description": "",
     "date": "2026-04-11",
-    "region": "",
-    "bike": "Suzuki Vstrom-250"
+    "region": "지리산정령치/성삼재/구례읍/공주/예산",
+    "bike": "Honda CBR500R"
   },
   {
     "path": "tracks/260411_진안_남원.gpx",
     "title": "진안_남원",
     "description": "",
     "date": "2026-04-11",
-    "region": "",
-    "bike": "Suzuki Vstrom-250"
+    "region": "마곡사/동해원/진안/남원",
+    "bike": "Honda CBR500R"
   },
   {
     "path": "tracks/260418_전주_가정식백반.gpx",
     "title": "전주_가정식백반",
     "description": "",
     "date": "2026-04-18",
-    "region": "",
-    "bike": "Suzuki Vstrom-250"
+    "region": "천안수퍼바이크/전주",
+    "bike": "Honda CB500X"
   },
   {
     "path": "tracks/260419_담양_메타세콰이어길.gpx",
     "title": "담양_메타세콰이어길",
     "description": "",
     "date": "2026-04-19",
-    "region": "",
-    "bike": "Suzuki Vstrom-250"
+    "region": "전주/강진/순창/담양/광주/백양사/김제/강경/부여/청양읍/",
+    "bike": "Honda CB500X"
   },
   {
     "path": "tracks/260424_HondaDay_.gpx",
-    "title": "HondaDay_",
-    "description": "",
+    "title": "2026_HondaDay",
+    "description": "2026 혼다 데이 at 무주 리조트",
     "date": "2026-04-24",
-    "region": "",
-    "bike": "Suzuki Vstrom-250"
+    "region": "무주/영동/보은/말티재",
+    "bike": "Honda CBR500R"
   },
   {
     "path": "tracks/260501_근로자의여행.gpx",
-    "title": "근로자의여행",
-    "description": "",
+    "title": "근로자의 여행",
+    "description": "근로자의 날 맞이 남도 투어",
     "date": "2026-05-01",
-    "region": "",
-    "bike": "Suzuki Vstrom-250"
+    "region": "고군산군도 고창 담양 죽녹원 담양호",
+    "bike": "Honda CB500X"
   },
   {
     "path": "tracks/260505_선녀풍.gpx",
     "title": "선녀풍",
-    "description": "",
+    "description": "영종도 노을 및 선녀풍 물회 맛보기",
     "date": "2026-05-05",
-    "region": "",
-    "bike": "Suzuki Vstrom-250"
+    "region": "영종도 을왕리 선녀바위",
+    "bike": "Honda GB350C"
   },
   {
     "path": "tracks/260509_더트앤파크_느랏가락재.gpx",
     "title": "더트앤파크_느랏가락재",
-    "description": "",
+    "description": "혼다 오프로드 교육 겸 느랏재 가락재 투어",
     "date": "2026-05-09",
-    "region": "",
-    "bike": "Suzuki Vstrom-250"
+    "region": "춘천남면/느랏재_가락재/동홍천",
+    "bike": "Honda CBR500R"
   },
   {
     "path": "tracks/260510_더트앤파크2.gpx",
     "title": "더트앤파크2",
-    "description": "",
+    "description": "혼다 오프로드 교육 Basic 2차 교육으로 느랏재 가락재 투어",
     "date": "2026-05-10",
-    "region": "",
-    "bike": "Suzuki Vstrom-250"
+    "region": "춘천남면",
+    "bike": "Honda CBR500R"
   }
 ]
