@@ -754,7 +754,7 @@
   {
     "path": "tracks/250622_천안슈퍼바이크.gpx",
     "title": "천안슈퍼바이크",
-    "description": "",
+    "description": "CB500X 16T 소기어 장착 여행",
     "date": "2025-06-22",
     "region": "",
     "bike": "Suzuki Vstrom-250"
@@ -762,162 +762,162 @@
   {
     "path": "tracks/250807_테듀여름전지훈련.gpx",
     "title": "테듀여름전지훈련",
-    "description": "",
+    "description": "테니스 훈련 후 강원 투어",
     "date": "2025-08-07",
-    "region": "",
-    "bike": "Suzuki Vstrom-250"
+    "region": "퇴계원/춘천",
+    "bike": "CB500X"
   },
   {
     "path": "tracks/250808_양구인제투어.gpx",
     "title": "양구인제투어",
-    "description": "",
+    "description": "춘천에서 청평사 소양호를 따라 양구 시래기정식 먹고 데이터 소실",
     "date": "2025-08-08",
-    "region": "",
-    "bike": "Suzuki Vstrom-250"
+    "region": "춘천/청평사/소양호/양구/인제 스피디움/현리",
+    "bike": "CB500X"
+  },
+  {
+    "path": "tracks/251031_후쿠오카_히라도_이키츠키섬.gpx",
+    "title": "후쿠오카_히라도_이키츠키섬",
+    "description": "큐슈 바이크 투어 첫날",
+    "date": "2025-10-31",
+    "region": "렌탈819후쿠오카국제공항점/후쿠오카/이키츠키섬/히라도/일본본토최서단",
+    "bike": "G310GS"
   },
   {
     "path": "tracks/251101_나가사키_운젠_이즈미.gpx",
     "title": "나가사키_운젠_이즈미",
-    "description": "",
+    "description": "큐슈 바이크 투어 이튿날",
     "date": "2025-11-01",
-    "region": "",
-    "bike": "Suzuki Vstrom-250"
-  },
-  {
-    "path": "tracks/251101_후쿠오카_히라도_이키츠키섬.gpx",
-    "title": "후쿠오카_히라도_이키츠키섬",
-    "description": "",
-    "date": "2025-11-01",
-    "region": "",
-    "bike": "Suzuki Vstrom-250"
+    "region": "사이카이/나가사키/운젠/시마바라항/구마모토신항/이즈미",
+    "bike": "G310GS"
   },
   {
     "path": "tracks/251102_사쿠라지마_사타곶.gpx",
     "title": "사쿠라지마_사타곶",
-    "description": "",
+    "description": "큐슈 바이크 투어 셋째날",
     "date": "2025-11-02",
-    "region": "",
-    "bike": "Suzuki Vstrom-250"
+    "region": "가고시마공항/사쿠라지마/사타곶(사타미사키)/카노야/미야코노조/미야자키시",
+    "bike": "G310GS"
   },
   {
     "path": "tracks/251103_아소산_구마모토.gpx",
     "title": "아소산_구마모토",
-    "description": "",
+    "description": "큐슈 바이크 투어 넷째날",
     "date": "2025-11-03",
-    "region": "",
-    "bike": "Suzuki Vstrom-250"
+    "region": "미야자키시/다카치호조/아소산/케니로드/밀크로드/다이칸보/구마모토신시가이",
+    "bike": "G310GS"
   },
   {
     "path": "tracks/251104_후쿠오카복귀.gpx",
     "title": "후쿠오카복귀",
-    "description": "",
+    "description": "큐슈 바이크 투어 다섯째날",
     "date": "2025-11-04",
-    "region": "",
-    "bike": "Suzuki Vstrom-250"
+    "region": "구루메/후쿠오카시/우미노나카미치/시카노시마",
+    "bike": "G310GS"
   },
   {
     "path": "tracks/251212_타이중_일월담_옥산.gpx",
     "title": "타이중_일월담_옥산",
-    "description": "",
+    "description": "타이중역을 출발해 일월담과 동북아 최고봉 옥산을 바라보며 아리산 휴양지 구경",
     "date": "2025-12-12",
-    "region": "",
-    "bike": "Suzuki Vstrom-250"
+    "region": "타이중역/일월담/옥산/아리산/지아이시",
+    "bike": "Yamaha Scooter 125"
   },
   {
     "path": "tracks/251213_대만최서단.gpx",
     "title": "대만최서단",
     "description": "",
     "date": "2025-12-13",
-    "region": "",
-    "bike": "Suzuki Vstrom-250"
-  },
-  {
-    "path": "tracks/251214_대만_타이루거협곡.gpx",
-    "title": "대만_타이루거협곡",
-    "description": "",
-    "date": "2025-12-14",
-    "region": "",
-    "bike": "Suzuki Vstrom-250"
+    "region": "컨딩/츄안판로 해변",
+    "bike": "Yamaha Scooter 125"
   },
   {
     "path": "tracks/251214_대만최남단_화롄.gpx",
     "title": "대만최남단_화롄",
-    "description": "",
+    "description": "대만 최남단을 찍고 화롄으로 비바람 뚫고 화롄으로 이동",
     "date": "2025-12-14",
     "region": "",
-    "bike": "Suzuki Vstrom-250"
+    "bike": "Yamaha Scooter 125"
+  },
+  {
+    "path": "tracks/251215_대만_타이루거협곡.gpx",
+    "title": "대만_타이루거협곡",
+    "description": "화롄에서 타이루거협곡의 구름 위로 올라가 허환샨 옆 우링을 넘어 칭징농장을 거쳐 푸리진까지",
+    "date": "2025-12-15",
+    "region": "화롄/타이루거협곡/따위링/우링/허환샨/칭징농장/푸리진",
+    "bike": "Yamaha Scooter 125"
   },
   {
     "path": "tracks/251216_대만_타이중복귀.gpx",
     "title": "대만_타이중복귀",
-    "description": "",
+    "description": "푸리진에서 시엔시해변 찍고 무지개마을 들러 타이중역에서 바이크 반납",
     "date": "2025-12-16",
-    "region": "",
-    "bike": "Suzuki Vstrom-250"
+    "region": "푸리진/차오툰/챵화시/시엔시해변/무지개마을/타이중역",
+    "bike": "Yamaha Scooter 125"
   },
   {
     "path": "tracks/260214_주문진투어.gpx",
     "title": "주문진투어",
-    "description": "",
+    "description": "명절 맞이 및 재형 선임과 첫 장거리 투어",
     "date": "2026-02-14",
-    "region": "",
-    "bike": "Honda CB500X"
+    "region": "횡성/평창/진고개/주문진",
+    "bike": "GB350C"
   },
   {
     "path": "tracks/260216_주문진복귀.gpx",
     "title": "주문진복귀",
     "description": "",
     "date": "2026-02-16",
-    "region": "",
-    "bike": "Honda CB500X"
+    "region": "주문진/진고개",
+    "bike": "GB350C"
   },
   {
     "path": "tracks/260314_소무의도.gpx",
     "title": "소무의도",
-    "description": "",
+    "description": "청라하늘대교 개통 기념 소무의도 투어",
     "date": "2026-03-14",
-    "region": "",
-    "bike": "Honda CBR500R"
+    "region": "영종도/청라하늘대교/대무의도/소무의도",
+    "bike": "CBR500R"
   },
   {
     "path": "tracks/260321_몽산포항.gpx",
     "title": "몽산포항",
-    "description": "",
+    "description": "MBB의 고향 투어",
     "date": "2026-03-21",
-    "region": "",
-    "bike": "Honda CB500X"
+    "region": "서산/당진/태안/몽산포항",
+    "bike": "CB500X"
   },
   {
     "path": "tracks/260322_가로림만.gpx",
     "title": "가로림만",
-    "description": "",
+    "description": "가로림만 발자국 남기기",
     "date": "2026-03-22",
-    "region": "",
-    "bike": "Honda CB500X"
+    "region": "만리포/가로림만/도비도/석문방조제",
+    "bike": "CB500X"
   },
   {
     "path": "tracks/260404_경북풍기.gpx",
     "title": "경북풍기",
-    "description": "",
+    "description": "영주 봉화 투어 중 인삼의 고장 방문",
     "date": "2026-04-04",
     "region": "충주살미/한수/수산면/풍기읍",
-    "bike": "Honda CB500X"
+    "bike": "CB500X"
   },
   {
     "path": "tracks/260405_영주_봉화_울진.gpx",
     "title": "영주_봉화_울진",
-    "description": "영주시 봉화군 울진군 투어",
+    "description": "재량 처가 동네 방문",
     "date": "2026-04-05",
     "region": "영주/봉화/국립백두대간수목원/청량산/영양/금강송면/불영계곡/울진/죽변항",
-    "bike": "Honda CB500X"
+    "bike": "CB500X"
   },
   {
     "path": "tracks/260406_단양.gpx",
     "title": "단양 충주호 북측",
-    "description": "단양 출발 우중 충주호 북측 비포장로 Off-road 투어",
+    "description": "우중 충주호 북측 비포장로 오프로드 투어",
     "date": "2026-04-06",
     "region": "단양/북충주호",
-    "bike": "Honda CB500X"
+    "bike": "CB500X"
   },
   {
     "path": "tracks/260411_지리산_정령치_성삼재.gpx",
@@ -925,7 +925,7 @@
     "description": "",
     "date": "2026-04-11",
     "region": "지리산정령치/성삼재/구례읍/공주/예산",
-    "bike": "Honda CBR500R"
+    "bike": "CBR500R"
   },
   {
     "path": "tracks/260411_진안_남원.gpx",
@@ -933,7 +933,7 @@
     "description": "",
     "date": "2026-04-11",
     "region": "마곡사/동해원/진안/남원",
-    "bike": "Honda CBR500R"
+    "bike": "CBR500R"
   },
   {
     "path": "tracks/260418_전주_가정식백반.gpx",
@@ -941,7 +941,7 @@
     "description": "",
     "date": "2026-04-18",
     "region": "천안수퍼바이크/전주",
-    "bike": "Honda CB500X"
+    "bike": "CB500X"
   },
   {
     "path": "tracks/260419_담양_메타세콰이어길.gpx",
@@ -949,7 +949,7 @@
     "description": "",
     "date": "2026-04-19",
     "region": "전주/강진/순창/담양/광주/백양사/김제/강경/부여/청양읍/",
-    "bike": "Honda CB500X"
+    "bike": "CB500X"
   },
   {
     "path": "tracks/260424_HondaDay_.gpx",
@@ -957,7 +957,7 @@
     "description": "2026 혼다 데이 at 무주 리조트",
     "date": "2026-04-24",
     "region": "무주/영동/보은/말티재",
-    "bike": "Honda CBR500R"
+    "bike": "CBR500R"
   },
   {
     "path": "tracks/260501_근로자의여행.gpx",
@@ -965,7 +965,7 @@
     "description": "근로자의 날 맞이 남도 투어",
     "date": "2026-05-01",
     "region": "고군산군도 고창 담양 죽녹원 담양호",
-    "bike": "Honda CB500X"
+    "bike": "CB500X"
   },
   {
     "path": "tracks/260505_선녀풍.gpx",
@@ -973,7 +973,7 @@
     "description": "영종도 노을 및 선녀풍 물회 맛보기",
     "date": "2026-05-05",
     "region": "영종도 을왕리 선녀바위",
-    "bike": "Honda GB350C"
+    "bike": "GB350C"
   },
   {
     "path": "tracks/260509_더트앤파크_느랏가락재.gpx",
@@ -981,7 +981,7 @@
     "description": "혼다 오프로드 교육 겸 느랏재 가락재 투어",
     "date": "2026-05-09",
     "region": "춘천남면/느랏재_가락재/동홍천",
-    "bike": "Honda CBR500R"
+    "bike": "CBR500R"
   },
   {
     "path": "tracks/260510_더트앤파크2.gpx",
@@ -989,6 +989,6 @@
     "description": "혼다 오프로드 교육 Basic 2차 교육으로 느랏재 가락재 투어",
     "date": "2026-05-10",
     "region": "춘천남면",
-    "bike": "Honda CBR500R"
+    "bike": "CBR500R"
   }
 ]
