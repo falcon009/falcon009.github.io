@@ -10,81 +10,81 @@
   {
     "path": "tracks/220717_시흥복귀.gpx",
     "title": "시흥복귀",
-    "description": "시흥 돌아가는 길",
+    "description": "안산쪽으로 시흥 돌아가는 길",
     "date": "2022-07-17",
-    "region": "경기도 시흥시",
+    "region": "군포/안산/한양대에리카/시흥시/서울대시흥캠퍼스/배곧신도시",
     "bike": "GSX-S125"
   },
   {
     "path": "tracks/220722_서울복귀.gpx",
     "title": "서울복귀",
-    "description": "",
+    "description": "구로 영등포를 관통해서 집에 가보자",
     "date": "2022-07-22",
-    "region": "",
+    "region": "시흥/대야/부천/오류동/개봉동/구로/영등포/서울교/여의교/대방",
     "bike": "GSX-S125"
   },
   {
     "path": "tracks/220723_오후어드벤처.gpx",
-    "title": "오후어드벤처",
+    "title": "남산 용산 돌아보기",
     "description": "",
     "date": "2022-07-23",
-    "region": "",
+    "region": "이태원/동대입구/퇴계로/남산케이블카/용산고/청파로/용산전자상가",
     "bike": "GSX-S125"
   },
   {
     "path": "tracks/220724_재밌는어드벤처.gpx",
-    "title": "재밌는어드벤처",
-    "description": "",
+    "title": "월곶 둘러보기",
+    "description": "시흥 복귀 중 월곶 둘러 보기",
     "date": "2022-07-24",
-    "region": "",
+    "region": "월곶",
     "bike": "GSX-S125"
   },
   {
     "path": "tracks/220725_시흥먹자골목.gpx",
-    "title": "시흥먹자골목",
-    "description": "",
+    "title": "시흥먹자골목 투어",
+    "description": "시흥시 정왕동 구석구석 돌아보기",
     "date": "2022-07-25",
-    "region": "",
+    "region": "시흥시/정왕동/중심상가/중국인거리",
     "bike": "GSX-S125"
   },
   {
     "path": "tracks/220727_영흥도마실.gpx",
     "title": "영흥도마실",
-    "description": "",
+    "description": "영흥도 하늘고래전망대 다녀오기",
     "date": "2022-07-27",
-    "region": "",
+    "region": "오이도/영흥도/하늘고래전망대",
     "bike": "GSX-S125"
   },
   {
     "path": "tracks/220728_오랜지듄스.gpx",
     "title": "오랜지듄스",
-    "description": "",
+    "description": "한밤중 오렌지 듄스 야간 라운딩 둘러보기",
     "date": "2022-07-28",
-    "region": "",
-    "bike": "GSX-S125"
-  },
-  {
-    "path": "tracks/220729_SRS_.gpx",
-    "title": "SRS_",
-    "description": "",
-    "date": "2022-07-29",
-    "region": "",
+    "region": "배곧신도시/인천신항/LNG기지/오렌지듄스GC",
     "bike": "GSX-S125"
   },
   {
     "path": "tracks/220729_서울행.gpx",
-    "title": "서울행",
-    "description": "",
+    "title": "귀가1",
+    "description": "귀가1",
     "date": "2022-07-29",
-    "region": "",
+    "region": "서부간선도로/노들길",
+    "bike": "GSX-S125"
+  },
+  {
+    "path": "tracks/220729_SRS_.gpx",
+    "title": "송규헌 라이딩 스쿨(SRS)",
+    "description": "송규헌 라이딩 스쿨 다녀오기",
+    "date": "2022-07-29",
+    "region": "광주시/도척면/용인/아시아나CC/둔전/모현읍/분당풍림아이원/서울숲",
     "bike": "GSX-S125"
   },
   {
     "path": "tracks/220731_서울숲시흥.gpx",
     "title": "서울숲시흥",
-    "description": "",
+    "description": "시흥 돌아가기",
     "date": "2022-07-31",
-    "region": "",
+    "region": "서울숲",
     "bike": "GSX-S125"
   },
   {
@@ -92,23 +92,23 @@
     "title": "귀가",
     "description": "",
     "date": "2022-08-06",
-    "region": "",
+    "region": "서부간선도로/노들길",
     "bike": "GSX-S125"
   },
   {
     "path": "tracks/220807_오후어드벤처.gpx",
-    "title": "오후어드벤처",
+    "title": "시흥복귀",
     "description": "",
     "date": "2022-08-07",
-    "region": "",
+    "region": "노들길/서부간선도로",
     "bike": "GSX-S125"
   },
   {
     "path": "tracks/220812_복귀.gpx",
-    "title": "복귀",
-    "description": "",
+    "title": "연습 후 귀가",
+    "description": "과천 대공원 들렀다 귀가",
     "date": "2022-08-12",
-    "region": "",
+    "region": "과천대공원",
     "bike": "GSX-S125"
   },
   {
@@ -116,128 +116,128 @@
     "title": "레인조라이딩스쿨",
     "description": "",
     "date": "2022-08-14",
-    "region": "",
+    "region": "파주/용미리/신산리레인조라이딩스쿨/광탄면",
     "bike": "GSX-S125"
   },
   {
     "path": "tracks/220816_영흥도물멍.gpx",
     "title": "영흥도물멍",
-    "description": "",
+    "description": "영흥도 하늘고래전망대 다녀오기",
     "date": "2022-08-16",
-    "region": "",
+    "region": "영흥도/하늘고래전망대",
     "bike": "Suzuki Vstrom-250"
   },
   {
     "path": "tracks/220826_복귀.gpx",
-    "title": "복귀",
-    "description": "",
+    "title": "연습 후 귀가 1",
+    "description": "서울대공원 주차장 연습 후 귀가",
     "date": "2022-08-26",
-    "region": "",
+    "region": "서울대공원",
     "bike": "Suzuki Vstrom-250"
   },
   {
     "path": "tracks/220827_경주시아침.gpx",
-    "title": "경주시아침",
-    "description": "",
+    "title": "경주 가기",
+    "description": "남도 투어 경주 가는 길",
     "date": "2022-08-27",
-    "region": "",
+    "region": "용인/남사/안성/입장/백곡/진천/증평/괴산/속리산/상주/영천",
     "bike": "Suzuki Vstrom-250"
   },
   {
     "path": "tracks/220827_경주시.gpx",
     "title": "경주시내",
-    "description": "",
+    "description": "보문단지 돌아보기",
     "date": "2022-08-27",
-    "region": "",
+    "region": "보문단지",
     "bike": "Suzuki Vstrom-250"
   },
   {
     "path": "tracks/220828_경주서울시흥.gpx",
     "title": "경주서울시흥",
-    "description": "",
+    "description": "경주에서 서울 들러 시흥 가는 길",
     "date": "2022-08-28",
-    "region": "",
+    "region": "경주/안강/영천/문경시/산양/연풍/충주/생극/이천/광주/성남",
     "bike": "Suzuki Vstrom-250"
   },
   {
     "path": "tracks/220901_장경리.gpx",
     "title": "장경리",
-    "description": "",
+    "description": "장경리 해수욕장 밤나들이",
     "date": "2022-09-01",
-    "region": "",
+    "region": "영흥도/장경리해수욕장",
     "bike": "Suzuki Vstrom-250"
   },
   {
     "path": "tracks/220902_늦은귀가.gpx",
     "title": "늦은귀가",
-    "description": "",
+    "description": "귀가",
     "date": "2022-09-02",
-    "region": "",
+    "region": "남부순환도로",
     "bike": "Suzuki Vstrom-250"
   },
   {
     "path": "tracks/220903_화악산춘천일주.gpx",
     "title": "화악산춘천일주",
-    "description": "",
+    "description": "화악산 둘러보기",
     "date": "2022-09-03",
-    "region": "",
+    "region": "포천/내촌/청평/가평/화악산/사내면/사북면/춘천",
     "bike": "Suzuki Vstrom-250"
   },
   {
     "path": "tracks/220904_춘천복귀.gpx",
-    "title": "춘천복귀",
-    "description": "",
+    "title": "시흥 복귀 3",
+    "description": "시흥 복귀 3",
     "date": "2022-09-04",
-    "region": "",
+    "region": "시흥",
     "bike": "Suzuki Vstrom-250"
   },
   {
     "path": "tracks/220912_화성시 일주.gpx",
     "title": "화성시 일주",
-    "description": "",
+    "description": "화성시 돌아 보기",
     "date": "2022-09-12",
-    "region": "",
+    "region": "시흥/안산/남양읍/화성시/화성방조제/궁평항/서신/대부도/오이도",
     "bike": "Suzuki Vstrom-250"
   },
   {
     "path": "tracks/220913_남도투어_변산영광임자.gpx",
     "title": "남도투어_변산영광임자",
-    "description": "",
+    "description": "남도투어 출발 - 아산시를 거쳐 대천해수욕장 새만금 변산반도 격포 채석강 곰소항 법성포 백수해안길 칠산대교 지도 임자도 가기",
     "date": "2022-09-13",
-    "region": "",
+    "region": "아산시/예산읍/광천읍/보령항/대천해수욕장/무창포/서천/새만금/변산반도/격포/채석강/곰소항/법성포/백수해안길/칠산대교/지도/임자도",
     "bike": "Suzuki Vstrom-250"
   },
   {
     "path": "tracks/220914_남도투어_압해진도.gpx",
     "title": "남도투어_압해진도",
-    "description": "",
+    "description": "임자도와 증도를 구석구석 둘러보고 압해도의 천사대교를 앞에 두고 좌절 한 번 압해대교를 두고 또 좌절, 일로역 앞 백반으로 기운차려, 영산강 하구언둑을 건너 영암 스피드웨이 및 사우스링스CC를 둘러 보고 금호 방조제를 넘어 해남땅을 거쳐 진도 서남쪽 해안길을 일주",
     "date": "2022-09-14",
-    "region": "",
+    "region": "임자도/증도/압해도/천사대교/압해대교/일로역/영산강하구언둑/영암스피드웨이/사우스링스CC/금호방조제/울돌목/진도해안길/세방낙조/진도항/진도읍",
     "bike": "Suzuki Vstrom-250"
   },
   {
     "path": "tracks/220915_남도투어_진도완도고흥.gpx",
     "title": "남도투어_진도완도고흥",
-    "description": "",
+    "description": "진도읍 출발해서 동쪽 해안길을 일주 후 해남 땅끝마을을 돌아본 후 완도로 건너감. 완도에서 건설된 다리들을 통해 신지도 명사십리 해수욕장을 들러 고금도를 거쳐 강진 마량 도착, 계속 전진하여 장흥 회진항을 지나 관산, 회천을 지나 고흥으로 들어섬. 소록도를 지나 거문도를 바로 돌아나와 외나로도의 우주센터 입구를 둘러본 후 녹동항 도착",
     "date": "2022-09-15",
-    "region": "",
+    "region": "해남땅끝마을/완도/신지도/명사십리해수욕장/고금도/강진마량/장흥회진항/관산/회천/고흥/소록도/거문도/녹동항",
     "bike": "Suzuki Vstrom-250"
   },
   {
     "path": "tracks/220917_남도투어_여수남원전주.gpx",
     "title": "남도투어_여수남원전주",
-    "description": "",
+    "description": "고흥 녹동항을 출발하여 외나로도 우주센터를 둘러본 후 여수 낭도를 거쳐 게장거리에서 요기를 한 후 순천 구례 남원 전주를 거쳐 복귀",
     "date": "2022-09-17",
-    "region": "",
+    "region": "나로도/우주센터/여수낭도/여수게장거리/순천/구례/남원/임실/전주/논산/공주/천안/안성/용인/안양",
     "bike": "Suzuki Vstrom-250"
   },
   {
     "path": "tracks/220918_Afternoon_Sep_18th_.gpx",
     "title": "Afternoon_Sep_18th_",
-    "description": "",
+    "description": "월곶에서 출발하여 시흥시 일주하는 자전거 여행",
     "date": "2022-09-18",
-    "region": "",
-    "bike": "Suzuki Vstrom-250"
+    "region": "월곶/안산시/시화호/거북섬/",
+    "bike": "자이언트"
   },
   {
     "path": "tracks/220918_Morning_Sep_18th_.gpx",
@@ -248,19 +248,11 @@
     "bike": "Suzuki Vstrom-250"
   },
   {
-    "path": "tracks/220924_Afternoon_Sep_24th_.gpx",
-    "title": "Afternoon_Sep_24th_",
-    "description": "",
-    "date": "2022-09-24",
-    "region": "",
-    "bike": "Suzuki Vstrom-250"
-  },
-  {
     "path": "tracks/220924_Afternoon_Sep_24th_a.gpx",
-    "title": "Afternoon_Sep_24th_a",
+    "title": "와우모터스 나들이",
     "description": "",
     "date": "2022-09-24",
-    "region": "",
+    "region": "와우모터스",
     "bike": "Suzuki Vstrom-250"
   },
   {
