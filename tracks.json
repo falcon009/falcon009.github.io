@@ -2,10 +2,10 @@
   {
     "path": "tracks/220716_운악산일주.gpx",
     "title": "운악산일주",
-    "description": "운악산 주변 라이딩",
+    "description": "운악산 주변 돌아보기",
     "date": "2022-07-16",
-    "region": "경기도 가평/포천군",
-    "bike": "Suzuki Vstrom-250"
+    "region": "남양주/수동/가평/상면/조종면/포천/일동/내촌/진접",
+    "bike": "GSX-S125"
   },
   {
     "path": "tracks/220717_시흥복귀.gpx",
@@ -13,15 +13,7 @@
     "description": "시흥 돌아가는 길",
     "date": "2022-07-17",
     "region": "경기도 시흥시",
-    "bike": "Suzuki Vstrom-250"
-  },
-  {
-    "path": "tracks/220722_test.gpx",
-    "title": "test",
-    "description": "",
-    "date": "2022-07-22",
-    "region": "",
-    "bike": "Suzuki Vstrom-250"
+    "bike": "GSX-S125"
   },
   {
     "path": "tracks/220722_서울복귀.gpx",
@@ -29,7 +21,7 @@
     "description": "",
     "date": "2022-07-22",
     "region": "",
-    "bike": "Suzuki Vstrom-250"
+    "bike": "GSX-S125"
   },
   {
     "path": "tracks/220723_오후어드벤처.gpx",
@@ -37,7 +29,7 @@
     "description": "",
     "date": "2022-07-23",
     "region": "",
-    "bike": "Suzuki Vstrom-250"
+    "bike": "GSX-S125"
   },
   {
     "path": "tracks/220724_재밌는어드벤처.gpx",
@@ -45,7 +37,7 @@
     "description": "",
     "date": "2022-07-24",
     "region": "",
-    "bike": "Suzuki Vstrom-250"
+    "bike": "GSX-S125"
   },
   {
     "path": "tracks/220725_시흥먹자골목.gpx",
@@ -53,7 +45,7 @@
     "description": "",
     "date": "2022-07-25",
     "region": "",
-    "bike": "Suzuki Vstrom-250"
+    "bike": "GSX-S125"
   },
   {
     "path": "tracks/220727_영흥도마실.gpx",
@@ -61,7 +53,7 @@
     "description": "",
     "date": "2022-07-27",
     "region": "",
-    "bike": "Suzuki Vstrom-250"
+    "bike": "GSX-S125"
   },
   {
     "path": "tracks/220728_오랜지듄스.gpx",
@@ -69,7 +61,7 @@
     "description": "",
     "date": "2022-07-28",
     "region": "",
-    "bike": "Suzuki Vstrom-250"
+    "bike": "GSX-S125"
   },
   {
     "path": "tracks/220729_SRS_.gpx",
@@ -77,7 +69,7 @@
     "description": "",
     "date": "2022-07-29",
     "region": "",
-    "bike": "Suzuki Vstrom-250"
+    "bike": "GSX-S125"
   },
   {
     "path": "tracks/220729_서울행.gpx",
@@ -85,7 +77,7 @@
     "description": "",
     "date": "2022-07-29",
     "region": "",
-    "bike": "Suzuki Vstrom-250"
+    "bike": "GSX-S125"
   },
   {
     "path": "tracks/220731_서울숲시흥.gpx",
@@ -93,7 +85,7 @@
     "description": "",
     "date": "2022-07-31",
     "region": "",
-    "bike": "Suzuki Vstrom-250"
+    "bike": "GSX-S125"
   },
   {
     "path": "tracks/220806_귀가.gpx",
@@ -101,7 +93,7 @@
     "description": "",
     "date": "2022-08-06",
     "region": "",
-    "bike": "Suzuki Vstrom-250"
+    "bike": "GSX-S125"
   },
   {
     "path": "tracks/220807_오후어드벤처.gpx",
@@ -109,7 +101,7 @@
     "description": "",
     "date": "2022-08-07",
     "region": "",
-    "bike": "Suzuki Vstrom-250"
+    "bike": "GSX-S125"
   },
   {
     "path": "tracks/220812_복귀.gpx",
@@ -117,7 +109,7 @@
     "description": "",
     "date": "2022-08-12",
     "region": "",
-    "bike": "Suzuki Vstrom-250"
+    "bike": "GSX-S125"
   },
   {
     "path": "tracks/220814_레인조라이딩스쿨.gpx",
@@ -125,7 +117,7 @@
     "description": "",
     "date": "2022-08-14",
     "region": "",
-    "bike": "Suzuki Vstrom-250"
+    "bike": "GSX-S125"
   },
   {
     "path": "tracks/220816_영흥도물멍.gpx",
@@ -144,16 +136,16 @@
     "bike": "Suzuki Vstrom-250"
   },
   {
-    "path": "tracks/220827_경주시.gpx",
-    "title": "경주시",
+    "path": "tracks/220827_경주시아침.gpx",
+    "title": "경주시아침",
     "description": "",
     "date": "2022-08-27",
     "region": "",
     "bike": "Suzuki Vstrom-250"
   },
   {
-    "path": "tracks/220827_경주시아침.gpx",
-    "title": "경주시아침",
+    "path": "tracks/220827_경주시.gpx",
+    "title": "경주시내",
     "description": "",
     "date": "2022-08-27",
     "region": "",
@@ -333,7 +325,7 @@
     "description": "",
     "date": "2022-10-26",
     "region": "",
-    "bike": "Suzuki Vstrom-250"
+    "bike": "CBR500R"
   },
   {
     "path": "tracks/221027_DNA를찾아서.gpx",
@@ -341,7 +333,7 @@
     "description": "",
     "date": "2022-10-27",
     "region": "",
-    "bike": "Suzuki Vstrom-250"
+    "bike": "CBR500R"
   },
   {
     "path": "tracks/221028_DNA를떠나다.gpx",
@@ -349,7 +341,7 @@
     "description": "",
     "date": "2022-10-28",
     "region": "",
-    "bike": "Suzuki Vstrom-250"
+    "bike": "CBR500R"
   },
   {
     "path": "tracks/221111_가을속초라이딩.gpx",
@@ -357,7 +349,7 @@
     "description": "",
     "date": "2022-11-11",
     "region": "",
-    "bike": "Suzuki Vstrom-250"
+    "bike": "CBR500R"
   },
   {
     "path": "tracks/221112_Morning_Nov_13th_.gpx",
@@ -365,7 +357,7 @@
     "description": "",
     "date": "2022-11-12",
     "region": "",
-    "bike": "Suzuki Vstrom-250"
+    "bike": "CBR500R"
   },
   {
     "path": "tracks/221112_속초복귀.gpx",
@@ -373,7 +365,7 @@
     "description": "",
     "date": "2022-11-12",
     "region": "",
-    "bike": "Suzuki Vstrom-250"
+    "bike": "CBR500R"
   },
   {
     "path": "tracks/221113_레인조아카데미수료.gpx",
@@ -381,7 +373,7 @@
     "description": "",
     "date": "2022-11-13",
     "region": "",
-    "bike": "Suzuki Vstrom-250"
+    "bike": "CBR500R"
   },
   {
     "path": "tracks/221126_강만장구경.gpx",
@@ -389,31 +381,31 @@
     "description": "",
     "date": "2022-11-26",
     "region": "",
-    "bike": "Suzuki Vstrom-250"
+    "bike": "CBR500R"
   },
   {
     "path": "tracks/221227_시흥경주랠리.gpx",
     "title": "시흥경주랠리",
-    "description": "",
+    "description": "거제 남도투어 출발",
     "date": "2022-12-27",
-    "region": "",
-    "bike": "Suzuki Vstrom-250"
+    "region": "청주/보은상주/영천/경주",
+    "bike": "CBR500R"
   },
   {
     "path": "tracks/221228_호미곶감포.gpx",
     "title": "호미곶감포",
     "description": "",
     "date": "2022-12-28",
-    "region": "",
-    "bike": "Suzuki Vstrom-250"
+    "region": "영덕/강구항/포항/호미곶/구룡포/감포",
+    "bike": "CBR500R"
   },
   {
     "path": "tracks/221229_바람의핫도그.gpx",
     "title": "바람의핫도그",
     "description": "",
     "date": "2022-12-29",
-    "region": "",
-    "bike": "Suzuki Vstrom-250"
+    "region": "양산/부산/창원/거제도/바람의언덕/사천/진주/산청",
+    "bike": "CBR500R"
   },
   {
     "path": "tracks/221229_산청시흥.gpx",
@@ -421,7 +413,7 @@
     "description": "",
     "date": "2022-12-29",
     "region": "",
-    "bike": "Suzuki Vstrom-250"
+    "bike": "CBR500R"
   },
   {
     "path": "tracks/230217_인천연안부두.gpx",
@@ -429,7 +421,7 @@
     "description": "",
     "date": "2023-02-17",
     "region": "",
-    "bike": "Suzuki Vstrom-250"
+    "bike": "CB500X"
   },
   {
     "path": "tracks/230226_강화도.gpx",
@@ -437,7 +429,7 @@
     "description": "",
     "date": "2023-02-26",
     "region": "",
-    "bike": "Suzuki Vstrom-250"
+    "bike": "CB500X"
   },
   {
     "path": "tracks/230301_광명관통.gpx",
@@ -445,7 +437,7 @@
     "description": "",
     "date": "2023-03-01",
     "region": "",
-    "bike": "Suzuki Vstrom-250"
+    "bike": "CB500X"
   },
   {
     "path": "tracks/230304_황만장.gpx",
@@ -453,7 +445,7 @@
     "description": "",
     "date": "2023-03-04",
     "region": "",
-    "bike": "Suzuki Vstrom-250"
+    "bike": "CB500X"
   },
   {
     "path": "tracks/230311_광주.gpx",
@@ -461,7 +453,7 @@
     "description": "",
     "date": "2023-03-11",
     "region": "",
-    "bike": "Suzuki Vstrom-250"
+    "bike": "CB500X"
   },
   {
     "path": "tracks/230312_광주복귀.gpx",
@@ -469,7 +461,7 @@
     "description": "",
     "date": "2023-03-12",
     "region": "",
-    "bike": "Suzuki Vstrom-250"
+    "bike": "CB500X"
   },
   {
     "path": "tracks/230316_임실.gpx",
@@ -477,7 +469,7 @@
     "description": "",
     "date": "2023-03-16",
     "region": "",
-    "bike": "Suzuki Vstrom-250"
+    "bike": "CBR500R"
   },
   {
     "path": "tracks/230316_임실남원산청.gpx",
@@ -485,7 +477,7 @@
     "description": "",
     "date": "2023-03-16",
     "region": "",
-    "bike": "Suzuki Vstrom-250"
+    "bike": "CBR500R"
   },
   {
     "path": "tracks/230318_산청서울.gpx",
@@ -493,7 +485,7 @@
     "description": "",
     "date": "2023-03-18",
     "region": "",
-    "bike": "Suzuki Vstrom-250"
+    "bike": "CBR500R"
   },
   {
     "path": "tracks/230512_홍천개야리.gpx",
@@ -501,7 +493,7 @@
     "description": "",
     "date": "2023-05-12",
     "region": "",
-    "bike": "Suzuki Vstrom-250"
+    "bike": "CB500X"
   },
   {
     "path": "tracks/230513_개야리복귀.gpx",
@@ -509,7 +501,7 @@
     "description": "",
     "date": "2023-05-13",
     "region": "",
-    "bike": "Suzuki Vstrom-250"
+    "bike": "CB500X"
   },
   {
     "path": "tracks/230517_대부화성.gpx",
@@ -517,7 +509,7 @@
     "description": "",
     "date": "2023-05-17",
     "region": "",
-    "bike": "Suzuki Vstrom-250"
+    "bike": "CB500X"
   },
   {
     "path": "tracks/230527_연곡부영.gpx",
@@ -525,7 +517,7 @@
     "description": "",
     "date": "2023-05-27",
     "region": "",
-    "bike": "Suzuki Vstrom-250"
+    "bike": "CB500X"
   },
   {
     "path": "tracks/230529_59번국도_동강투어.gpx",
@@ -533,7 +525,7 @@
     "description": "",
     "date": "2023-05-29",
     "region": "",
-    "bike": "Suzuki Vstrom-250"
+    "bike": "CB500X"
   },
   {
     "path": "tracks/230815_법성포.gpx",
@@ -541,7 +533,7 @@
     "description": "",
     "date": "2023-08-15",
     "region": "",
-    "bike": "Suzuki Vstrom-250"
+    "bike": "CB500X"
   },
   {
     "path": "tracks/230816_영암광주.gpx",
@@ -549,7 +541,7 @@
     "description": "",
     "date": "2023-08-16",
     "region": "",
-    "bike": "Suzuki Vstrom-250"
+    "bike": "CB500X"
   },
   {
     "path": "tracks/230818_광주시흥서울.gpx",
@@ -557,7 +549,7 @@
     "description": "",
     "date": "2023-08-18",
     "region": "",
-    "bike": "Suzuki Vstrom-250"
+    "bike": "CB500X"
   },
   {
     "path": "tracks/230929_한가위주문진.gpx",
@@ -565,7 +557,7 @@
     "description": "",
     "date": "2023-09-29",
     "region": "",
-    "bike": "Suzuki Vstrom-250"
+    "bike": "CB500X"
   },
   {
     "path": "tracks/231001_만항재.gpx",
@@ -573,7 +565,7 @@
     "description": "",
     "date": "2023-10-01",
     "region": "",
-    "bike": "Suzuki Vstrom-250"
+    "bike": "CB500X"
   },
   {
     "path": "tracks/231027_개야리캠핑.gpx",
@@ -581,7 +573,7 @@
     "description": "",
     "date": "2023-10-27",
     "region": "",
-    "bike": "Suzuki Vstrom-250"
+    "bike": "CB500X"
   },
   {
     "path": "tracks/231028_개야리복귀.gpx",
@@ -589,15 +581,15 @@
     "description": "",
     "date": "2023-10-28",
     "region": "",
-    "bike": "Suzuki Vstrom-250"
+    "bike": "CB500X"
   },
   {
     "path": "tracks/231227_대천.gpx",
     "title": "대천",
-    "description": "",
+    "description": "대천 게스트 하우스 점검",
     "date": "2023-12-27",
-    "region": "",
-    "bike": "Suzuki Vstrom-250"
+    "region": "대천해수욕장",
+    "bike": "CB500X"
   },
   {
     "path": "tracks/231228_대천복귀.gpx",
@@ -605,7 +597,7 @@
     "description": "",
     "date": "2023-12-28",
     "region": "",
-    "bike": "Suzuki Vstrom-250"
+    "bike": "CB500X"
   },
   {
     "path": "tracks/240211_형버그만공수작전.gpx",
@@ -613,7 +605,7 @@
     "description": "",
     "date": "2024-02-11",
     "region": "",
-    "bike": "Suzuki Vstrom-250"
+    "bike": "Burgman 650"
   },
   {
     "path": "tracks/240218_아우버그만데려오기.gpx",
@@ -621,7 +613,7 @@
     "description": "",
     "date": "2024-02-18",
     "region": "",
-    "bike": "Suzuki Vstrom-250"
+    "bike": "Burgman 200"
   },
   {
     "path": "tracks/240228_광주.gpx",
@@ -629,7 +621,7 @@
     "description": "",
     "date": "2024-02-28",
     "region": "",
-    "bike": "Suzuki Vstrom-250"
+    "bike": "Burgman 650"
   },
   {
     "path": "tracks/240301_광주서울복귀.gpx",
@@ -637,7 +629,7 @@
     "description": "",
     "date": "2024-03-01",
     "region": "",
-    "bike": "Suzuki Vstrom-250"
+    "bike": "Burgman 650"
   },
   {
     "path": "tracks/240317_스파이더공수.gpx",
@@ -645,7 +637,7 @@
     "description": "",
     "date": "2024-03-17",
     "region": "",
-    "bike": "Suzuki Vstrom-250"
+    "bike": "CANAM SPYDER"
   },
   {
     "path": "tracks/240605_홍성.gpx",
@@ -653,7 +645,7 @@
     "description": "",
     "date": "2024-06-05",
     "region": "",
-    "bike": "Suzuki Vstrom-250"
+    "bike": "CB500X"
   },
   {
     "path": "tracks/240606_경주.gpx",
@@ -661,7 +653,7 @@
     "description": "",
     "date": "2024-06-06",
     "region": "",
-    "bike": "Suzuki Vstrom-250"
+    "bike": "CB500X"
   },
   {
     "path": "tracks/240607_경주서울path.gpx",
@@ -669,7 +661,7 @@
     "description": "",
     "date": "2024-06-07",
     "region": "",
-    "bike": "Suzuki Vstrom-250"
+    "bike": "CB500X"
   },
   {
     "path": "tracks/240802_관동대구경.gpx",
@@ -677,7 +669,7 @@
     "description": "",
     "date": "2024-08-02",
     "region": "",
-    "bike": "Suzuki Vstrom-250"
+    "bike": "CB300R"
   },
   {
     "path": "tracks/240803_부연동구룡령운두령진고개.gpx",
@@ -685,7 +677,7 @@
     "description": "",
     "date": "2024-08-03",
     "region": "",
-    "bike": "Suzuki Vstrom-250"
+    "bike": "CB300R"
   },
   {
     "path": "tracks/240804_건의령청옥산.gpx",
@@ -693,7 +685,7 @@
     "description": "",
     "date": "2024-08-04",
     "region": "",
-    "bike": "Suzuki Vstrom-250"
+    "bike": "CB300R"
   },
   {
     "path": "tracks/240815_펀치볼투어.gpx",
@@ -701,7 +693,7 @@
     "description": "",
     "date": "2024-08-15",
     "region": "",
-    "bike": "Suzuki Vstrom-250"
+    "bike": "CB300R"
   },
   {
     "path": "tracks/240927_한계령.gpx",
@@ -709,7 +701,7 @@
     "description": "",
     "date": "2024-09-27",
     "region": "",
-    "bike": "Suzuki Vstrom-250"
+    "bike": "CB300R"
   },
   {
     "path": "tracks/240928_한계령복귀.gpx",
@@ -717,15 +709,7 @@
     "description": "",
     "date": "2024-09-28",
     "region": "",
-    "bike": "Suzuki Vstrom-250"
-  },
-  {
-    "path": "tracks/241002_동두천복귀.gpx",
-    "title": "동두천복귀",
-    "description": "",
-    "date": "2024-10-02",
-    "region": "",
-    "bike": "Suzuki Vstrom-250"
+    "bike": "CB300R"
   },
   {
     "path": "tracks/241002_동두천테니스투어.gpx",
@@ -733,7 +717,15 @@
     "description": "",
     "date": "2024-10-02",
     "region": "",
-    "bike": "Suzuki Vstrom-250"
+    "bike": "CB300R"
+  },
+  {
+    "path": "tracks/241002_동두천복귀.gpx",
+    "title": "동두천복귀",
+    "description": "",
+    "date": "2024-10-02",
+    "region": "",
+    "bike": "CB300R"
   },
   {
     "path": "tracks/250427_강화투어.gpx",
@@ -749,7 +741,7 @@
     "description": "",
     "date": "2025-06-06",
     "region": "",
-    "bike": "Suzuki Vstrom-250"
+    "bike": "CB500X"
   },
   {
     "path": "tracks/250622_천안슈퍼바이크.gpx",
@@ -757,7 +749,7 @@
     "description": "CB500X 16T 소기어 장착 여행",
     "date": "2025-06-22",
     "region": "",
-    "bike": "Suzuki Vstrom-250"
+    "bike": "CB500X"
   },
   {
     "path": "tracks/250807_테듀여름전지훈련.gpx",
@@ -860,7 +852,7 @@
     "title": "주문진투어",
     "description": "명절 맞이 및 재형 선임과 첫 장거리 투어",
     "date": "2026-02-14",
-    "region": "횡성/평창/진고개/주문진",
+    "region": "양평/횡성/평창/진고개/주문진",
     "bike": "GB350C"
   },
   {
@@ -868,7 +860,7 @@
     "title": "주문진복귀",
     "description": "",
     "date": "2026-02-16",
-    "region": "주문진/진고개",
+    "region": "주문진/진고개/횡성",
     "bike": "GB350C"
   },
   {
@@ -876,7 +868,7 @@
     "title": "소무의도",
     "description": "청라하늘대교 개통 기념 소무의도 투어",
     "date": "2026-03-14",
-    "region": "영종도/청라하늘대교/대무의도/소무의도",
+    "region": "영종도/청라하늘대교/대무의도/소무의도/하나개해변/실미도해변",
     "bike": "CBR500R"
   },
   {
@@ -892,7 +884,7 @@
     "title": "가로림만",
     "description": "가로림만 발자국 남기기",
     "date": "2026-03-22",
-    "region": "만리포/가로림만/도비도/석문방조제",
+    "region": "만리포/가로림만/삼길포항/도비도항/석문방조제",
     "bike": "CB500X"
   },
   {
