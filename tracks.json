@@ -249,7 +249,7 @@
   },
   {
     "path": "tracks/220924_Afternoon_Sep_24th_a.gpx",
-    "title": "와우모터스 나들이",
+    "title": "와우모터스 쇼핑",
     "description": "",
     "date": "2022-09-24",
     "region": "와우모터스",
@@ -257,58 +257,58 @@
   },
   {
     "path": "tracks/220927_야탑.gpx",
-    "title": "야탑",
-    "description": "",
+    "title": "야탑 환송식 가기",
+    "description": "왕 현호씨 환송식",
     "date": "2022-09-27",
-    "region": "",
+    "region": "야탑역",
     "bike": "Suzuki Vstrom-250"
   },
   {
     "path": "tracks/220928_시흥복귀.gpx",
-    "title": "시흥복귀",
-    "description": "",
+    "title": "야탑 환송식 복귀",
+    "description": "환송식 복귀",
     "date": "2022-09-28",
-    "region": "",
+    "region": "야탑역",
     "bike": "Suzuki Vstrom-250"
   },
   {
     "path": "tracks/221002_금산.gpx",
-    "title": "금산",
-    "description": "",
+    "title": "금산 구경",
+    "description": "금산 구경을 위해 길을 떠났다가 공주 공산성을 둘러보고 동해원 입성을 실패하고 계룡시를 거쳐 금산 도착",
     "date": "2022-10-02",
-    "region": "",
+    "region": "공주시/동해원/계룡시/벌곡/금산읍",
     "bike": "Suzuki Vstrom-250"
   },
   {
     "path": "tracks/221003_용담호무주.gpx",
-    "title": "용담호무주",
-    "description": "",
+    "title": "용담호 무주",
+    "description": "금산을 출발하여 용담호를 둘러보고 무주읍에 들러 어죽 한그릇 먹고 옥천을 들러 대청호를 둘러보고 청주를 거쳐 복귀",
     "date": "2022-10-03",
-    "region": "",
+    "region": "용담호/무주읍/옥천읍/대청호/청주/진천/죽산/양지",
     "bike": "Suzuki Vstrom-250"
   },
   {
     "path": "tracks/221008_하동.gpx",
     "title": "하동",
-    "description": "",
+    "description": "남해 일주를 위해 하동 도착",
     "date": "2022-10-08",
-    "region": "",
+    "region": "태인/산내/강진/곡성/구례/하동",
     "bike": "Suzuki Vstrom-250"
   },
   {
     "path": "tracks/221009_남해.gpx",
-    "title": "남해",
+    "title": "남해 일주",
     "description": "",
     "date": "2022-10-09",
-    "region": "",
+    "region": "남해/다랭이마을/창선도/삼천포/사천/진주/산청/김천/증평",
     "bike": "Suzuki Vstrom-250"
   },
   {
     "path": "tracks/221010_Afternoon_Oct_10th_.gpx",
     "title": "Afternoon_Oct_10th_",
-    "description": "",
+    "description": "이태원 자전거 샾 + 바이크 라이딩 to 시흥",
     "date": "2022-10-10",
-    "region": "",
+    "region": "이태원/시흥",
     "bike": "Suzuki Vstrom-250"
   },
   {
@@ -316,31 +316,31 @@
     "title": "500R을찾아서",
     "description": "",
     "date": "2022-10-26",
-    "region": "",
+    "region": "서정리/청북읍/팔탄/남양읍/안산/오이도/배곧",
     "bike": "CBR500R"
   },
   {
     "path": "tracks/221027_DNA를찾아서.gpx",
-    "title": "DNA를찾아서",
+    "title": "DNA모터스 교육장",
     "description": "",
     "date": "2022-10-27",
-    "region": "",
+    "region": "안양/성남/광주/곤지암",
     "bike": "CBR500R"
   },
   {
     "path": "tracks/221028_DNA를떠나다.gpx",
-    "title": "DNA를떠나다",
+    "title": "DNA모터스 교육 완료",
     "description": "",
     "date": "2022-10-28",
-    "region": "",
+    "region": "곤지암/초월읍/퇴촌/남한산성/우면산터널/국립도서관",
     "bike": "CBR500R"
   },
   {
     "path": "tracks/221111_가을속초라이딩.gpx",
     "title": "가을속초라이딩",
-    "description": "",
+    "description": "가을 맞이 안보라이딩 to 속초",
     "date": "2022-11-11",
-    "region": "",
+    "region": "시흥/부천/파주/문산/연천/철원/김화/화천/양구/미시령터널/속초",
     "bike": "CBR500R"
   },
   {
@@ -356,7 +356,7 @@
     "title": "속초복귀",
     "description": "",
     "date": "2022-11-12",
-    "region": "",
+    "region": "속초/양양/강릉/대관령/횡성/양평/남종/남한산성",
     "bike": "CBR500R"
   },
   {
@@ -364,7 +364,7 @@
     "title": "레인조아카데미수료",
     "description": "",
     "date": "2022-11-13",
-    "region": "",
+    "region": "월드컵대교/고양/파주/광탄",
     "bike": "CBR500R"
   },
   {
