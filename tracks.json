@@ -298,7 +298,7 @@
   {
     "path": "tracks/221009_남해.gpx",
     "title": "남해 일주",
-    "description": "",
+    "description": "대권/윤권 형제의 고향 및 다랭이 마을 둘러보기",
     "date": "2022-10-09",
     "region": "남해/다랭이마을/창선도/삼천포/사천/진주/산청/김천/증평",
     "bike": "Suzuki Vstrom-250"
@@ -306,7 +306,7 @@
   {
     "path": "tracks/221010_Afternoon_Oct_10th_.gpx",
     "title": "Afternoon_Oct_10th_",
-    "description": "이태원 자전거 샾 + 바이크 라이딩 to 시흥",
+    "description": "이태원 전기 자전거 샾 들렀다 바이크로 시흥 복귀",
     "date": "2022-10-10",
     "region": "이태원/시흥",
     "bike": "Suzuki Vstrom-250"
@@ -322,15 +322,15 @@
   {
     "path": "tracks/221027_DNA를찾아서.gpx",
     "title": "DNA모터스 교육장",
-    "description": "",
+    "description": "DNA모터스 라이딩스쿨 교육을 위해 방문",
     "date": "2022-10-27",
     "region": "안양/성남/광주/곤지암",
     "bike": "CBR500R"
   },
   {
     "path": "tracks/221028_DNA를떠나다.gpx",
-    "title": "DNA모터스 교육 완료",
-    "description": "",
+    "title": "DNA모터스 교육 받고 복귀",
+    "description": "교육 수료 후 복귀",
     "date": "2022-10-28",
     "region": "곤지암/초월읍/퇴촌/남한산성/우면산터널/국립도서관",
     "bike": "CBR500R"
@@ -344,41 +344,41 @@
     "bike": "CBR500R"
   },
   {
-    "path": "tracks/221112_Morning_Nov_13th_.gpx",
-    "title": "Morning_Nov_13th_",
-    "description": "",
-    "date": "2022-11-12",
-    "region": "",
-    "bike": "CBR500R"
-  },
-  {
     "path": "tracks/221112_속초복귀.gpx",
     "title": "속초복귀",
-    "description": "",
+    "description": "속초에서 대관령 넘고 양평에서 강 아래편 길따라 퇴촌을 거쳐 남한산성 넘어 복귀",
     "date": "2022-11-12",
     "region": "속초/양양/강릉/대관령/횡성/양평/남종/남한산성",
     "bike": "CBR500R"
   },
   {
-    "path": "tracks/221113_레인조아카데미수료.gpx",
-    "title": "레인조아카데미수료",
-    "description": "",
+    "path": "tracks/221112_Morning_Nov_13th_.gpx",
+    "title": "레인조아카데미",
+    "description": "레인조아카데미 라이딩스쿨 교육을 위해 방문",
     "date": "2022-11-13",
     "region": "월드컵대교/고양/파주/광탄",
     "bike": "CBR500R"
   },
   {
+    "path": "tracks/221113_레인조아카데미수료.gpx",
+    "title": "레인조아카데미 복귀",
+    "description": "교육 수료 후 복귀",
+    "date": "2022-11-13",
+    "region": "광탄/벽제/월드컵대교",
+    "bike": "CBR500R"
+  },
+  {
     "path": "tracks/221126_강만장구경.gpx",
     "title": "강만장구경",
-    "description": "",
+    "description": "강만장 구경하러 가는 길",
     "date": "2022-11-26",
-    "region": "",
+    "region": "김포/통진/강화/교동도",
     "bike": "CBR500R"
   },
   {
     "path": "tracks/221227_시흥경주랠리.gpx",
     "title": "시흥경주랠리",
-    "description": "거제 남도투어 출발",
+    "description": "동남부 남도투어 출발",
     "date": "2022-12-27",
     "region": "청주/보은상주/영천/경주",
     "bike": "CBR500R"
@@ -386,7 +386,7 @@
   {
     "path": "tracks/221228_호미곶감포.gpx",
     "title": "호미곶감포",
-    "description": "",
+    "description": "경주에서 강구항 둘러보고 포항 바다 길을 따라 호미곶을 들러 물에 잠긴 손을 보고 구룡포를 지나 감포항에서 회 한 접시 먹고 경주로 복귀",
     "date": "2022-12-28",
     "region": "영덕/강구항/포항/호미곶/구룡포/감포",
     "bike": "CBR500R"
@@ -394,7 +394,7 @@
   {
     "path": "tracks/221229_바람의핫도그.gpx",
     "title": "바람의핫도그",
-    "description": "",
+    "description": "경주에서 부산을 들러 창원 마산을 지나 통영시를 거쳐 거제도 바람의 언덕을 둘러 봤으나 너무 추워 핫도그 하나 먹고 출발",
     "date": "2022-12-29",
     "region": "양산/부산/창원/거제도/바람의언덕/사천/진주/산청",
     "bike": "CBR500R"
@@ -402,223 +402,215 @@
   {
     "path": "tracks/221229_산청시흥.gpx",
     "title": "산청시흥",
-    "description": "",
+    "description": "날이 저물어 산청에서 머물고 시흥으로 복귀, 시간이 남아 수인로따라 신천동까지 올라갔다가 시흥 복귀",
     "date": "2022-12-29",
     "region": "",
     "bike": "CBR500R"
   },
   {
     "path": "tracks/230217_인천연안부두.gpx",
-    "title": "인천연안부두",
+    "title": "인천 구경",
     "description": "",
     "date": "2023-02-17",
-    "region": "",
+    "region": "인천/연안부두/인하대학교/논현동",
     "bike": "CB500X"
   },
   {
     "path": "tracks/230226_강화도.gpx",
     "title": "강화도",
-    "description": "",
+    "description": "서울 출발해 강화 본섬만 돌아서 초지교 거쳐 시흥으로 복귀",
     "date": "2023-02-26",
-    "region": "",
+    "region": "강화/연미정/강화읍/외포리/선수포구/동막해변/초지대교/인천/중봉대로",
     "bike": "CB500X"
   },
   {
     "path": "tracks/230301_광명관통.gpx",
     "title": "광명관통",
-    "description": "",
+    "description": "서울에서 출발하여 개봉 고가도로를 넘어 개봉로/광명로를 따라 광명사거리 역을 지나 시가지 부분을 관통해서 남광명까지 쭉 관통해서 물왕호수 입구로 나와 시흥 복귀",
     "date": "2023-03-01",
-    "region": "",
+    "region": "개봉로/광명로/광명사거리역/남광명/물왕호수",
     "bike": "CB500X"
   },
   {
     "path": "tracks/230304_황만장.gpx",
     "title": "황만장",
-    "description": "",
+    "description": "황금박쥐 캠핑장 및 카페 구경하고 춘천 들러서 만난 거 먹고 복귀",
     "date": "2023-03-04",
-    "region": "",
+    "region": "홍천/황만장/춘천",
     "bike": "CB500X"
   },
   {
     "path": "tracks/230311_광주.gpx",
-    "title": "광주",
-    "description": "",
+    "title": "광주 조문",
+    "description": "급한 소식에 차편 구하지 못해 종찬 부친상 조문차 광주 방문",
     "date": "2023-03-11",
-    "region": "",
+    "region": "광주/만평장례식장",
     "bike": "CB500X"
   },
   {
     "path": "tracks/230312_광주복귀.gpx",
-    "title": "광주복귀",
-    "description": "",
+    "title": "광주 조문 복귀",
+    "description": "우중 복귀 중 추위로 전주 맥도날드 및 계룡 시 카페에서 몸을 휴식 후 복귀. 3월 라이딩도 무척 춥구나!",
     "date": "2023-03-12",
-    "region": "",
+    "region": "전주/맥도날드/계룡관광휴게소",
     "bike": "CB500X"
   },
   {
     "path": "tracks/230316_임실.gpx",
     "title": "임실",
-    "description": "",
+    "description": "다음날 재량 주재 남원 라운딩을 위해 퇴근 후 출발해서 임실 머뭄",
     "date": "2023-03-16",
-    "region": "",
+    "region": "아산/송악/유구/부여/임실",
     "bike": "CBR500R"
   },
   {
     "path": "tracks/230316_임실남원산청.gpx",
     "title": "임실남원산청",
-    "description": "",
+    "description": "남원 골프존카운티에서 라운딩 후 남원시내를 통과해 운봉읍 인월을 지나 산청 KAI 공장을 지나 삼장면을 지나 재호 보금자리까지",
     "date": "2023-03-16",
-    "region": "",
+    "region": "골프존카운티드래곤/남원/운봉/인월/휴천/삼장/내원리",
     "bike": "CBR500R"
   },
   {
     "path": "tracks/230318_산청서울.gpx",
     "title": "산청서울",
-    "description": "",
+    "description": "지리산을 출발하여 덕유산 무주리조트 입구를 통과하여 무주 영동 보은 증평 진천 양지읍을 지나 복귀",
     "date": "2023-03-18",
-    "region": "",
+    "region": "지리산/삼장면/덕유산/무주리조트/무주/영동/보은/증평/진천/양지",
     "bike": "CBR500R"
-  },
-  {
-    "path": "tracks/230512_홍천개야리.gpx",
-    "title": "홍천개야리",
-    "description": "",
-    "date": "2023-05-12",
-    "region": "",
-    "bike": "CB500X"
   },
   {
     "path": "tracks/230513_개야리복귀.gpx",
     "title": "개야리복귀",
-    "description": "",
+    "description": "동옥 준비한 캠핑 후 복귀",
     "date": "2023-05-13",
-    "region": "",
+    "region": "홍천/개야리/단월/용문/양평/와부/용마터널",
     "bike": "CB500X"
   },
   {
     "path": "tracks/230517_대부화성.gpx",
     "title": "대부화성",
-    "description": "",
+    "description": "오후 반차내고 평소 가보지 못한 대부도 비포장길을 지나 전곡항을 지나 대부도 건너편을 어섬을 포함하여 숨겨진 비포장길을 탐사",
     "date": "2023-05-17",
-    "region": "",
+    "region": "대부도/어섬/독지리/송산",
     "bike": "CB500X"
   },
   {
     "path": "tracks/230527_연곡부영.gpx",
-    "title": "연곡부영",
-    "description": "",
+    "title": "강릉 연곡",
+    "description": "강릉 방문",
     "date": "2023-05-27",
-    "region": "",
+    "region": "진고개/연곡해변",
     "bike": "CB500X"
   },
   {
     "path": "tracks/230529_59번국도_동강투어.gpx",
     "title": "59번국도_동강투어",
-    "description": "",
+    "description": "강릉 연곡을 출발하여 양양으로 올라가서 59번국도 양양/진고개 구간을 통과해보고 진부 정선읍을 지나 이번 투어의 목표인 동강길 따라 내려옴. ",
     "date": "2023-05-29",
-    "region": "",
+    "region": "양양/국도59호선/진부/정선/동강/영월/제천",
     "bike": "CB500X"
   },
   {
     "path": "tracks/230815_법성포.gpx",
     "title": "법성포",
-    "description": "",
+    "description": "남도투어를 위해 출발하여 굴비 정식 먹기 위해 법성포 머무름",
     "date": "2023-08-15",
-    "region": "",
+    "region": "보령/군산/새만금/변산반도/고창/법성포",
     "bike": "CB500X"
   },
   {
     "path": "tracks/230816_영암광주.gpx",
     "title": "영암광주",
-    "description": "",
+    "description": "법성포를 출발하여 백수해변 영광 염산을 지나 함평 손불해변을 따라 돌머리 해수욕장을 둘러보고 바닷가 길을 따라 무안을 지나 1번 국도로 목포에 진입하여 해상케이블카 승강장 구경후 유달산을 한바퀴 돌면서 목포 시내를 전망하고 목포여객터미널을 지나 삼학도 공원을 둘러보고 하구언둑을 지나 영암 삼호로 건너감. 성전에서 좌회전하여 영암읍을 지나 세지 남평읍을 지나 광주 첨단으로  ",
     "date": "2023-08-16",
-    "region": "",
+    "region": "백수해변/손불/함평/돌머리해수욕장/무안/목포/유달산/영암/삼호/성전/나주/남평/광주/첨단지구",
     "bike": "CB500X"
   },
   {
     "path": "tracks/230818_광주시흥서울.gpx",
     "title": "광주시흥서울",
-    "description": "",
+    "description": "시흥 들러 서울 복귀",
     "date": "2023-08-18",
-    "region": "",
+    "region": "김제/익산/논산/공주/천안/시흥",
     "bike": "CB500X"
   },
   {
     "path": "tracks/230929_한가위주문진.gpx",
     "title": "한가위주문진",
-    "description": "",
+    "description": "주문진 가는 길에 홍천 운두령 진고개 지남",
     "date": "2023-09-29",
-    "region": "",
+    "region": "홍천/내촌면/운두령/진고개",
     "bike": "CB500X"
   },
   {
     "path": "tracks/231001_만항재.gpx",
     "title": "만항재",
-    "description": "",
+    "description": "대한민국에서 차로 오를 수 있는 최고지 만항재 올라가기",
     "date": "2023-10-01",
-    "region": "",
+    "region": "임계/사북/고한/만항재/상동읍/김삿갓면/영춘면/어상천면/제천시",
     "bike": "CB500X"
   },
   {
     "path": "tracks/231027_개야리캠핑.gpx",
     "title": "개야리캠핑",
-    "description": "",
+    "description": "캠핑 위해 개야리 방문",
     "date": "2023-10-27",
-    "region": "",
+    "region": "홍천/개야리",
     "bike": "CB500X"
   },
   {
     "path": "tracks/231028_개야리복귀.gpx",
     "title": "개야리복귀",
-    "description": "",
+    "description": "대명리조트 입구를 지나 양평방향으로 복귀",
     "date": "2023-10-28",
-    "region": "",
+    "region": "대명리조트/하남",
     "bike": "CB500X"
   },
   {
     "path": "tracks/231227_대천.gpx",
-    "title": "대천",
-    "description": "대천 게스트 하우스 점검",
+    "title": "대천 게스트하우스",
+    "description": "대천 게스트 하우스 살펴보기 위해 한산한 겨울에 방문",
     "date": "2023-12-27",
     "region": "대천해수욕장",
     "bike": "CB500X"
   },
   {
     "path": "tracks/231228_대천복귀.gpx",
-    "title": "대천복귀",
-    "description": "",
+    "title": "이재용 뿌리 찾기",
+    "description": "대천해수욕장에서 대천항 및 아름다운 오천항을 살펴보고 이재용 박사의 고향 마을(천북면)을 둘러보고 남당항 궁리항을 지나 복귀 ",
     "date": "2023-12-28",
-    "region": "",
+    "region": "대천항/오천항/천북/남당항/궁리항",
     "bike": "CB500X"
   },
   {
     "path": "tracks/240211_형버그만공수작전.gpx",
     "title": "형버그만공수작전",
-    "description": "",
+    "description": "스즈키 버그만650을 서울로 데려오기 위해 투어",
     "date": "2024-02-11",
-    "region": "",
+    "region": "진고개/진부/횡성",
     "bike": "Burgman 650"
   },
   {
     "path": "tracks/240218_아우버그만데려오기.gpx",
     "title": "아우버그만데려오기",
-    "description": "",
+    "description": "버그만200을 시흥으로 바로 데려옴",
     "date": "2024-02-18",
-    "region": "",
+    "region": "대관령/진부/광주/안양",
     "bike": "Burgman 200"
   },
   {
     "path": "tracks/240228_광주.gpx",
-    "title": "광주",
-    "description": "",
+    "title": "광주 민물매운탕 투어",
+    "description": "재량 재철 라운딩 및 쌍치 민물매운탕 먹으러 광주 행",
     "date": "2024-02-28",
-    "region": "",
+    "region": "광주/첨단지구/쌍치민물매운탕/",
     "bike": "Burgman 650"
   },
   {
     "path": "tracks/240301_광주서울복귀.gpx",
-    "title": "광주서울복귀",
-    "description": "",
+    "title": "민물매운탕 투어 복귀",
+    "description": "매운탕 먹고 잘 놀고 서울 복귀",
     "date": "2024-03-01",
     "region": "",
     "bike": "Burgman 650"
@@ -626,97 +618,89 @@
   {
     "path": "tracks/240317_스파이더공수.gpx",
     "title": "스파이더공수",
-    "description": "",
+    "description": "캔암 스파이더를 가져오기 위한 투어",
     "date": "2024-03-17",
-    "region": "",
+    "region": "한계령",
     "bike": "CANAM SPYDER"
   },
   {
     "path": "tracks/240605_홍성.gpx",
     "title": "홍성",
-    "description": "",
+    "description": "경주가는 길에 재모보러 홍성 들름",
     "date": "2024-06-05",
-    "region": "",
+    "region": "헙덕/고덕/덕산/홍성읍",
     "bike": "CB500X"
   },
   {
     "path": "tracks/240606_경주.gpx",
     "title": "경주",
-    "description": "",
+    "description": "홍성을 출발하여 금산 무주 나제통문을 지나 가야산을 바라보며 달성 유가읍을 지나 창녕 우포늪을 둘러보고 밀양을 지나 사을 넘어 언양 울산 광역시를 둘러보고 현대 미포조선소를 지나 경주 입성",
     "date": "2024-06-06",
-    "region": "",
+    "region": "홍성/광천/금산/무주/나제통문/가야산/달성/창녕/우포늪/밀양시/언양읍/울산시/현대중공업미포조선소/문무대왕면/경주",
     "bike": "CB500X"
   },
   {
     "path": "tracks/240607_경주서울path.gpx",
     "title": "경주서울path",
-    "description": "",
+    "description": "울산 구경 후 서울 복귀",
     "date": "2024-06-07",
-    "region": "",
+    "region": "영천/우보/문경시/산양면/연풍/괴산/음성/생극/장호원 /이천/곤지암/광주/성남",
     "bike": "CB500X"
   },
   {
     "path": "tracks/240802_관동대구경.gpx",
-    "title": "관동대구경",
-    "description": "",
+    "title": "테듀 하계 전지훈련 at 관동대학교",
+    "description": "테듀 여름 전지훈련 겸 여름 휴가로 강릉 투어. 가는 길에 봉평 시장 구경",
     "date": "2024-08-02",
-    "region": "",
+    "region": "봉평/관동대학교",
     "bike": "CB300R"
   },
   {
     "path": "tracks/240803_부연동구룡령운두령진고개.gpx",
     "title": "부연동구룡령운두령진고개",
-    "description": "",
+    "description": "연곡에서 출발 국도59호선 부연동계곡에서 양양을 들러 구룡령을 넘어 창촌에서 운두령을 넘어 진고개 넘어 연곡으로 돌아옴",
     "date": "2024-08-03",
-    "region": "",
+    "region": "부연동/구령령/창촌/운두령",
     "bike": "CB300R"
   },
   {
     "path": "tracks/240804_건의령청옥산.gpx",
     "title": "건의령청옥산",
-    "description": "",
+    "description": "건의령 가보기 위해서 강릉에서 옥계 동해시를 지나 도계읍 진입 직전에 건의령을 지나 매봉산 바람의 언덕은 사람이 많은 관계료 패스하고 근처 해바라기 축제를 관람하고 정선읍을 지나 청옥산 육백마지기를 오름. 평창읍에서 맘스터치로 욕기한 후 안흥 우천을 지나 횡성 양평을 지나 복귀",
     "date": "2024-08-04",
-    "region": "",
+    "region": "강릉/옥계/동해/도계/건의령/태백시/매봉산/바람의언덕/정선/청옥산/육백마지기/평창/안흥/우천/횡성",
     "bike": "CB300R"
   },
   {
     "path": "tracks/240815_펀치볼투어.gpx",
     "title": "펀치볼투어",
-    "description": "",
+    "description": "펀치볼 시레기 정식을 찾아 떠났으나 실패하고 원통 맘스터치로 위안",
     "date": "2024-08-15",
-    "region": "",
+    "region": "포천/이동/김화/화천/평화의댐/방산면/동면/해안면/원통/인제",
     "bike": "CB300R"
   },
   {
     "path": "tracks/240927_한계령.gpx",
     "title": "한계령",
-    "description": "",
+    "description": "한계령을 지나 강릉",
     "date": "2024-09-27",
-    "region": "",
+    "region": "한계령",
     "bike": "CB300R"
   },
   {
     "path": "tracks/240928_한계령복귀.gpx",
     "title": "한계령복귀",
-    "description": "",
+    "description": "진고개 넘어 복귀",
     "date": "2024-09-28",
-    "region": "",
+    "region": "한계령",
     "bike": "CB300R"
   },
-  {
+ {
     "path": "tracks/241002_동두천테니스투어.gpx",
-    "title": "동두천테니스투어",
-    "description": "",
+    "title": "동두천테니스 투어",
+    "description": "태릉 거처 진접",
     "date": "2024-10-02",
-    "region": "",
-    "bike": "CB300R"
-  },
-  {
-    "path": "tracks/241002_동두천복귀.gpx",
-    "title": "동두천복귀",
-    "description": "",
-    "date": "2024-10-02",
-    "region": "",
+    "region": "태릉/남양주/퇴계원/진접/내촌",
     "bike": "CB300R"
   },
   {
@@ -724,23 +708,31 @@
     "title": "강화투어",
     "description": "",
     "date": "2025-04-27",
-    "region": "",
+    "region": "김포/고천/김만장/월곶/연미정/강화평화전망대/",
     "bike": "Suzuki Vstrom-250"
+  },
+  {
+    "path": "tracks/241002_동두천복귀.gpx",
+    "title": "동두천테니스 복귀",
+    "description": "테니스 운동 후 복귀",
+    "date": "2024-10-02",
+    "region": "신내동",
+    "bike": "CB300R"
   },
   {
     "path": "tracks/250606_오산평택천안.gpx",
     "title": "오산평택천안",
-    "description": "",
+    "description": "CB500X 16T 소기어 장착을 하기 위해 출발. 오산 공군기지 앞의 진아주머니 햄버거 맛도 보고 영빈루 짬뽕 맛도 보고 다녀옴.",
     "date": "2025-06-06",
-    "region": "",
+    "region": "오산공군기지/송탄/영빈루/천안/수퍼바이크",
     "bike": "CB500X"
   },
   {
     "path": "tracks/250622_천안슈퍼바이크.gpx",
     "title": "천안슈퍼바이크",
-    "description": "CB500X 16T 소기어 장착 여행",
+    "description": "CBR500R 16T 소기어 장착 여행",
     "date": "2025-06-22",
-    "region": "",
+    "region": "천안/수퍼바이크",
     "bike": "CB500X"
   },
   {
@@ -749,7 +741,7 @@
     "description": "테니스 훈련 후 강원 투어",
     "date": "2025-08-07",
     "region": "퇴계원/춘천",
-    "bike": "CB500X"
+    "bike": "CBR00R"
   },
   {
     "path": "tracks/250808_양구인제투어.gpx",
@@ -820,7 +812,7 @@
     "title": "대만최남단_화롄",
     "description": "대만 최남단을 찍고 화롄으로 비바람 뚫고 화롄으로 이동",
     "date": "2025-12-14",
-    "region": "",
+    "region": "컨딩/최남단/타이동/화롄",
     "bike": "Yamaha Scooter 125"
   },
   {
